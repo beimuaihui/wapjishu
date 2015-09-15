@@ -1,0 +1,1 @@
+The project aims to explore the latest wap technology, through the implementation of the project can give phone users a better experience, to promote the development of wap technology
